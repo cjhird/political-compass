@@ -13,6 +13,26 @@ The specific terms and definitions of political thought included in this model m
 - Should this model be made specific to UK politics? - this could be done by referencing real examples in some statements. Though, this may see questions receive less objective responses.
 - The bias of the creater must be considered - a solution could be an independent project review?
 
+## Ideologies
+
+Based on established and supported poltical ideologies:
+https://en.wikipedia.org/wiki/List_of_political_ideologies
+
+## Statements
+Yet to be defined but will likely be categorised and based on the political spectrum from:
+https://en.wikipedia.org/wiki/Political_spectrum
+
+## Responses
+
+In the form of a Likert scale:
+https://en.wikipedia.org/wiki/Likert_scale 
+
+- Strongly disagree
+- Disagree
+- Neither agree nor disagree
+- Agree
+- Strongly agree
+
 ## Resources
 
 - https://sapplyvalues.github.io/
