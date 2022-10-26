@@ -11,6 +11,7 @@ The specific terms and definitions of political thought included in this model m
 - How many statement categories should exist?
 - How many statements should be included?
 - How long should the test take to complete?
+- Should the questions be based on current uk public policies?
 - Should this model be made specific to UK politics? - this could be done by referencing real examples in some statements. Though, this may see questions receive less objective responses.
 - The bias of the creater must be considered - a solution could be an independent project review?
 
