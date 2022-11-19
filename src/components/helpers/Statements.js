@@ -1,3 +1,4 @@
+// array of objects to store test statement data
 const statements = [
   {
     statement: 'The freer the market, the feer the people.',
