@@ -29,3 +29,5 @@ const statements = [
     theme: 'economy',
   },
 ]
+
+export default statements
