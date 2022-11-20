@@ -6,4 +6,4 @@
 // uses variable to measure user score on two spectrums
 // takes in the input of user responses to statements
 // user input for each statement is rated and added to the user's spectrum scores - increases/decreases
-// user scores for each spectrum are exported to the graph component to be plotted.
+// user scores for each spectrum are exported to the graph component to be plotted on the quadrant
