@@ -28,12 +28,12 @@ const TestView = () => {
           <h3>Section: SECTION VARIABLE</h3>
           <h4>SECTION DESCRIPTION VARIABLE</h4>
         </div>
-        <hr />
+
         <div className="progress-box">
           <h3>Your Test | PROGRESS COUNTER</h3>
           <h4>PROGRESS BAR</h4>
         </div>
-        <hr />
+
         <div className="statements-box">
           <div className="statement">
             <div className="statement-content">
@@ -54,7 +54,7 @@ const TestView = () => {
               </div>
             </div>
           </div>
-          <br />
+
           <div className="statements-container"></div>
           <div className="statement">
             <div className="statement-content">
@@ -75,7 +75,7 @@ const TestView = () => {
               </div>
             </div>
           </div>
-          <br />
+
           <div className="statement">
             <div className="statement-content">
               <p>STATEMENT 3</p>
@@ -95,7 +95,7 @@ const TestView = () => {
               </div>
             </div>
           </div>
-          <br />
+
           <div className="statement">
             <div className="statement-content">
               <p>STATEMENT 4</p>
@@ -115,7 +115,7 @@ const TestView = () => {
               </div>
             </div>
           </div>
-          <br />
+
           <div className="statement">
             <div className="statement-content">
               <p>STATEMENT 5</p>
@@ -135,7 +135,7 @@ const TestView = () => {
               </div>
             </div>
           </div>
-          <br />
+
           <div className="statement">
             <div className="statement-content">
               <p>STATEMENT 6</p>
@@ -155,7 +155,6 @@ const TestView = () => {
               </div>
             </div>
           </div>
-          <br />
         </div>
         <div className="bottom-box">
           <div className="next-section">
