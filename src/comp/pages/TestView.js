@@ -5,13 +5,16 @@ const TestView = () => {
   // Test Progress - e.g. 34 of 60
   // Section Counter - determines which statements are loaded. counter increments when user clicks nextSection button
 
+  // ? useState for game counters, statement content, statement inputs
+
   // Sections: 1, 2, 3 and  w/ six statements each
 
   // ! loadStatements function
   // check the current section.
   // load the set of 6 statements for specific section
+  const loadStatements = () => {}
 
-  // ! inputValue function
+  // ! handleInput function
   // Take user input on political statements
   // each statment will have a direction: right or left - this determines value of the input.
   // e.g. if the statement is left leaning and the user strongly agrees: economicScore += -2.00
@@ -20,6 +23,7 @@ const TestView = () => {
   // e.g. whereas if statement is right leaning and user strongly disagress: economicScore += -2.00
   // Based on statement direction and the value of the input selected, +/- value from economicScore & socialScore.
   // the inputValue function will be called when all statements have an input and the user clicks the nextSection button.
+  const handleInput = () => {}
 
   return (
     <div className="testview-wrapper">
