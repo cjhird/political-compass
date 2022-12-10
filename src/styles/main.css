@@ -1,0 +1,102 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: azure;
+}
+
+.testview-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.testview-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: violet;
+  width: 60%;
+}
+
+.section-box {
+  display: flex;
+  flex-direction: column;
+  width: 95%;
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.progress-box {
+  display: flex;
+  flex-direction: column;
+  width: 95%;
+  margin-bottom: 1.5rem;
+}
+
+.statements-box {
+  display: flex;
+  flex-direction: column;
+  width: 95%;
+  background-color: thistle;
+  margin-bottom: 2rem;
+}
+
+.statement {
+  display: flex;
+  flex-direction: column;
+  height: 15rem;
+  margin-bottom: 1.5rem;
+}
+
+.statement-content {
+  background-color: slateblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70%;
+}
+
+.statement-input {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 30%;
+}
+
+.strong-disagree {
+  height: 100%;
+  width: 25%;
+  display: flex;
+  justify-content: center;
+  background-color: tomato;
+}
+.disagree {
+  height: 100%;
+  width: 25%;
+  display: flex;
+  justify-content: center;
+  background-color: tomato;
+}
+.strong-agree {
+  height: 100%;
+  width: 25%;
+  display: flex;
+  justify-content: center;
+  background-color: tomato;
+}
+.agree {
+  height: 100%;
+  width: 25%;
+  display: flex;
+  justify-content: center;
+  background-color: tomato;
+}
+
+.bottom-box {
+  width: 95%;
+  height: 7rem;
+  background-color: thistle;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
